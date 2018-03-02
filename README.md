@@ -57,7 +57,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Built with 
 
-- [jQuery - AJAX](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
+- [jQuery - AJAX](http://api.jquery.com/jquery.ajax/) - Ajax (Asynchronous Javascript and XML) is a subset of javascript. Ajax is way for the client-side browser to communicate with the server without having to perform a page refresh. jQuery is a javascript library that standardizes the javascript differences cross-browser.
 - [Foundation](https://foundation.zurb.com) - Responsive front-end framework.
 
 ---
