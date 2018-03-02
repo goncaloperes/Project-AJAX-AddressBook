@@ -12,7 +12,7 @@ The app's User Interface is responsive and it was build using the Foundation Fra
 </tr>
 </table>
 
-## Version
+### Version
 1.0
 
 
