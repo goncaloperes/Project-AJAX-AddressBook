@@ -1,4 +1,7 @@
 # [AddressBook](https://github.com/goncaloperes/Project-AJAX-AddressBook)
+![](https://img.shields.io/badge/Version-1.0-blue.svg) 
+![](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 <table>
 <tr>
@@ -11,10 +14,6 @@ The app's User Interface is responsive and it was build using the Foundation Fra
 </td>
 </tr>
 </table>
-
-### Version
-1.0
-
 
 ---
 
